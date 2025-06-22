@@ -1,0 +1,193 @@
+{
+    "e03afacb-ae57-484c-b37b-775084ac8ddd": [
+        {
+            "message_id": "bb4020b6-9670-48de-832c-2b2e345e5904",
+            "content": "helloooo",
+            "sender": "user",
+            "timestamp": "2025-06-21T23:23:13.484188"
+        },
+        {
+            "message_id": "06d935b9-21e0-4357-b2fd-d2c418882d47",
+            "content": "ai response based on the uploaded documents and user query.",
+            "sender": "assistant",
+            "timestamp": "2025-06-21T23:23:13.496884"
+        }
+    ],
+    "821413bc-6a87-42d5-a9d2-cc414398d763": [
+        {
+            "message_id": "f3093432-eb11-40ad-b6d1-6d9b8ef6ad1d",
+            "content": "helllooo",
+            "sender": "user",
+            "timestamp": "2025-06-22T09:12:24.367879"
+        },
+        {
+            "message_id": "37665cca-cf7f-470b-939e-57186aa544a7",
+            "content": "Hello! How can I help you today?",
+            "sender": "assistant",
+            "timestamp": "2025-06-22T09:12:27.590149"
+        },
+        {
+            "message_id": "143e4ccb-547a-494f-8c24-991fd01cb372",
+            "content": "who are you",
+            "sender": "user",
+            "timestamp": "2025-06-22T09:12:32.587275"
+        },
+        {
+            "message_id": "06560254-80b8-407a-a86a-a65963a29be0",
+            "content": "I am a large language model, trained by Google.",
+            "sender": "assistant",
+            "timestamp": "2025-06-22T09:12:35.982931"
+        },
+        {
+            "message_id": "1e82b18d-76c6-4a62-88bf-66ca01adb083",
+            "content": "who am i",
+            "sender": "user",
+            "timestamp": "2025-06-22T09:28:02.857151"
+        },
+        {
+            "message_id": "1a37b662-3bda-4706-b375-decf826c9127",
+            "content": "Based on the information provided, you are **Korada Sri Krishna Koushik**.\n\nHere's a summary of who you are and what you do:\n\n*   **Name:** Korada Sri Krishna Koushik\n*   **Contact:** +91-8985183541, kskkoushik135@gmail.com\n*   **Current Role:** AI Engineer at Codemate.ai (April 2025 - Present)\n*   **Previous Experience:**\n    *   AI Research Intern at Gradehive.AI (February 2025 - April 2025)\n    *   Generative AI Engineer Intern at Genzoic (October 2024 \u2013 January 2024)\n*   **Education:** Currently pursuing a Bachelor of Technology in Artificial Intelligence (2022 \u2013 2026) with a CGPA of 9.54.\n*   **Technical Skills:** C, C++, Java, Javascript, Python, OOPS.\n*   **Key Achievements & Roles:**\n    *   Developed the backend of a Full-stack coding agent for Codemate.ai.\n    *   Team lead of Caffeinated coders and a 3x hackathon winner.\n    *   ML lead at Association for Computer machinery VIIT.\n    *   AI lead at Google Developer Groups VIIT.\n    *   Built an AI-powered music app (VibezMusic) and complex AI workflows/chatbots for various companies.",
+            "sender": "assistant",
+            "timestamp": "2025-06-22T09:28:11.660417"
+        }
+    ],
+    "cc92531f-8b87-457f-b18d-d59720a722f6": [
+        {
+            "message_id": "41f1f928-18b6-4549-86cb-7d24b8532c82",
+            "content": "what is MEFA",
+            "sender": "user",
+            "timestamp": "2025-06-22T09:31:26.541349"
+        },
+        {
+            "message_id": "84ac1ad0-a2ae-40f1-8b60-9c9714a246c5",
+            "content": "Based on the provided references, there is no information about \"MEFA\". The document discusses various other terms and concepts such as IASC, ASB, State Financial Corporation, microeconomics, and AICPA, but MEFA is not mentioned.",
+            "sender": "assistant",
+            "timestamp": "2025-06-22T09:31:30.606621"
+        },
+        {
+            "message_id": "e861293a-9bbf-450d-87e3-115da6f1c3a8",
+            "content": "hiiiii",
+            "sender": "user",
+            "timestamp": "2025-06-22T10:20:28.015796"
+        },
+        {
+            "message_id": "9ee4fa5b-0d43-4bbc-aa6d-fffcc25e2682",
+            "content": "Hello! How can I help you today?",
+            "sender": "assistant",
+            "timestamp": "2025-06-22T10:20:31.991697"
+        },
+        {
+            "message_id": "bc7918b6-436e-4c71-9bad-b05e31683db2",
+            "content": "who am I",
+            "sender": "user",
+            "timestamp": "2025-06-22T10:21:00.079066"
+        },
+        {
+            "message_id": "f75b6e2d-d121-4bf3-846f-af8bef84bd01",
+            "content": "Based on the provided references, \"you\" could be:\n\n*   **A sole owner (or sole trader):** This means you are the only owner, manager, and controller. You have total operational freedom, full control, and can make your own decisions.\n*   **A partner:** This means you have taken on more professionals as co-owners to form a partnership.\n\nYour identity depends on whether you choose to be the only owner or to form a partnership with others.",
+            "sender": "assistant",
+            "timestamp": "2025-06-22T10:21:05.636156"
+        }
+    ],
+    "b8033f2f-b717-44b7-ab89-70ab4b461e83": [
+        {
+            "message_id": "ac8ecaaf-54e1-41c0-bd37-c128ab93bef2",
+            "content": "who am I ??",
+            "sender": "user",
+            "timestamp": "2025-06-22T10:21:32.591578"
+        },
+        {
+            "message_id": "3a360e85-976f-4f5b-8e7c-23c7250d81ff",
+            "content": "Based on the provided references, you are **Vinjamuri Mihira**.",
+            "sender": "assistant",
+            "timestamp": "2025-06-22T10:21:36.194081"
+        },
+        {
+            "message_id": "a3413b05-ed67-4225-9413-eef52f631662",
+            "content": "Hello",
+            "sender": "user",
+            "timestamp": "2025-06-22T10:49:11.583510"
+        },
+        {
+            "message_id": "19ed61b8-c6ee-4fb0-91ca-4a292fbf15d9",
+            "content": "Hello! How can I help you today? I have information about Vinjamuri Mihira if you have any questions about their experience or projects.",
+            "sender": "assistant",
+            "timestamp": "2025-06-22T10:49:16.662180"
+        },
+        {
+            "message_id": "3a7756d3-4b61-4a22-8c48-260339f51598",
+            "content": "\ud83d\ude0f what does this refers to",
+            "sender": "user",
+            "timestamp": "2025-06-22T10:58:17.155326"
+        },
+        {
+            "message_id": "d5b2e53f-9603-4145-aa2d-709b6d214673",
+            "content": "The emoji \"\ud83d\ude0f\" is a **smirking face**. It typically conveys:\n\n*   **Smugness or self-satisfaction**\n*   **Playfulness or mischievousness**\n*   **Sarcasm or irony**\n*   **Flirtation**\n\nBased on the provided \"References,\" which appear to be a resume or CV for \"Vinjamuri Mihira,\" the emoji \"\ud83d\ude0f\" does not refer to anything specific within that text. The \"References\" document is a professional summary of experience and skills, while the emoji is an expression of a mood or tone.",
+            "sender": "assistant",
+            "timestamp": "2025-06-22T10:58:23.291771"
+        }
+    ],
+    "1914762c-daaa-4bce-bf97-c0e92844b7d8": [
+        {
+            "message_id": "35d94f13-faae-4407-9eaf-9e2149a8615d",
+            "content": "Hello, I am Poojitha\ud83d\ude01\ud83d\ude04",
+            "sender": "user",
+            "timestamp": "2025-06-22T11:42:08.196550"
+        },
+        {
+            "message_id": "6e2fbb6c-20d0-4a16-8cfe-28114c00137e",
+            "content": "Hello Poojitha! It's nice to meet you.\n\nHow can I assist you today?",
+            "sender": "assistant",
+            "timestamp": "2025-06-22T11:42:11.609394"
+        },
+        {
+            "message_id": "f1e0818f-2d08-4936-9a9b-fe4e21548e25",
+            "content": "Tell me about the emoji \ud83d\ude15",
+            "sender": "user",
+            "timestamp": "2025-06-22T11:42:30.247119"
+        },
+        {
+            "message_id": "0c74ca7c-ad79-4a7f-b1d9-724f4d5049d3",
+            "content": "The emoji \ud83d\ude15 is known as the **Confused Face** or **Perplexed Face**.\n\nHere's what it typically conveys:\n\n*   **Confusion:** It's primarily used to express bewilderment, not understanding something, or feeling puzzled.\n*   **Uncertainty:** It can also convey a sense of being unsure, hesitant, or having doubts.\n*   **Mild Disappointment/Concern:** In some contexts, it might suggest a slight unease or a \"hmm, that's not quite right\" feeling.\n\nVisually, it usually features a yellow face with raised eyebrows, a slightly furrowed brow, and a small, downturned mouth, all contributing to an expression of puzzlement.",
+            "sender": "assistant",
+            "timestamp": "2025-06-22T11:42:35.613337"
+        },
+        {
+            "message_id": "3510d75c-3afe-42bb-bcc9-a7487384309d",
+            "content": "About whom is the document uploaded ??",
+            "sender": "user",
+            "timestamp": "2025-06-22T11:43:02.230048"
+        },
+        {
+            "message_id": "ac84596a-dffe-4b95-b61b-2b679ecb4eac",
+            "content": "The document is about **Vinjamuri Mihira**.",
+            "sender": "assistant",
+            "timestamp": "2025-06-22T11:43:05.975904"
+        },
+        {
+            "message_id": "745c1f6f-3347-4c4f-8bc0-53f30b34c368",
+            "content": "Tell me about her based on the document",
+            "sender": "user",
+            "timestamp": "2025-06-22T11:43:17.363926"
+        },
+        {
+            "message_id": "0c4ab6ca-33eb-4351-a3ca-8a2256f70cc3",
+            "content": "Based on the document, \"she\" is **Vinjamuri Mihira**, an individual with a strong academic background and emerging professional experience in the technology field.\n\nHere's a summary of her profile:\n\n*   **Contact Information:**\n    *   Phone: +91-8074418799\n    *   Email: vinjamurimihira@gmail.com\n    *   Online Presence: LinkedIn, Github, Medium, Leetcode, Portfolio\n\n*   **Education:**\n    *   Currently pursuing a Bachelor of Technology in Computer Science (Artificial Intelligence) at Vignan\u2019s Institute of Information Technology (2022 \u2013 2026).\n    *   Maintains a high academic standing with a CGPA of 9.09.\n\n*   **Technical Skills:**\n    *   **Programming Languages/Frameworks:** Python, Flask (Python)\n    *   **AI/ML:** Generative AI, Artificial Intelligence Fundamentals, Gemini APIs\n    *   **Web Technologies:** Web Development, Firebase\n    *   **Databases:** Relational Database Fundamentals, MongoDB (with Python)\n    *   **Version Control:** Git, Pygithub, Gitpat\n    *   **Operating Systems:** Linux\n\n*   **Certifications:**\n    *   Python Programming \u2013 Infosys Springboard\n    *   MongoDB with Python\n    *   CCNA Module 1 (Networking Basics) \u2013 Cisco Skills For All\n    *   CCNA Module 2 (Switching, Routing & Wireless Essentials) \u2013 Cisco Skills For All\n    *   Relational Database Fundamentals \u2013 IBM via edX\n    *   Python Essentials 1 and 2 \u2013 Cisco Skills For All\n    *   Web Development \u2013 IBM SkillsBuild\n    *   Artificial Intelligence Fundamentals \u2013 IBM SkillsBuild\n\n*   **Experience:**\n    *   **Frontend Developer Intern** at Aegion Dynamic Solution (July 2024 \u2013 October 2024, Remote):\n        *   Actively working on innovative web development projects, focusing on interactive and responsive user interfaces.\n        *   Discussed site and app requirements with clients.\n        *   Used debugging tools to eliminate flaws.\n        *   Completed full redesigns to improve navigation, visuals, and SEO.\n    *   **Full stack Developer Intern** at SkillJo Web (April 2024 - June 2024, Remote):\n        *   Developed an Advertisement Management module, enhancing user engagement and platform functionality.\n\n*   **Projects:**\n    *   **AI PR Summarizer:** A web-based tool developed using Generative AI, Flask (Python), Pygithub, and Gitpat. It tracks recent GitHub pull requests and generates concise, AI-driven summaries. She leveraged Gemini APIs to automate insight extraction and streamlined the code review process by highlighting essential changes.",
+            "sender": "assistant",
+            "timestamp": "2025-06-22T11:43:27.801980"
+        },
+        {
+            "message_id": "972b34b0-07ad-411f-b6d7-27e0869dfdb6",
+            "content": "Okay, Thank you \ud83d\ude00",
+            "sender": "user",
+            "timestamp": "2025-06-22T11:43:44.886473"
+        },
+        {
+            "message_id": "433b4bf6-b0ae-449f-a407-a44515a18690",
+            "content": "You're very welcome!\n\nIf you have any questions about the information provided in the reference (which appears to be Vinjamuri Mihira's resume), feel free to ask! I can tell you more about:\n*   Vinjamuri Mihira's experience (e.g., specific projects, roles, and technologies used)\n*   Education details\n*   Technical skills\n*   Or anything else that stands out to you.",
+            "sender": "assistant",
+            "timestamp": "2025-06-22T11:43:48.419678"
+        }
+    ],
+    "bba4d6d9-57ea-4636-820f-dcfdcfae21ec": []
+}

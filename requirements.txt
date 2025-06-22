@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+PyMuPDF
+google-genai
+chromadb
+text-chunker
+nltk
+semchunk 
+tiktoken 
+transformers
